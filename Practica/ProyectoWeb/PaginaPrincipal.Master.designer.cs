@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practica
+namespace ProyectoWeb
 {
 
 

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Practica
+namespace ProyectoWeb
 {
     public partial class PaginaPrincipal : System.Web.UI.MasterPage
     {
