@@ -8,5 +8,6 @@ namespace Prueba.Interface
 {
     public class Class1
     {
+
     }
 }
