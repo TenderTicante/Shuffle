@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica", "Practica\Practica.csproj", "{0A43D579-4972-4467-A787-285649206DCB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba.Interface", "Prueba.Interface\Prueba.Interface.csproj", "{2B010A8E-8EB4-4C72-B641-0BE9C7D8ABDB}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0A43D579-4972-4467-A787-285649206DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A43D579-4972-4467-A787-285649206DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A43D579-4972-4467-A787-285649206DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A43D579-4972-4467-A787-285649206DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B010A8E-8EB4-4C72-B641-0BE9C7D8ABDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B010A8E-8EB4-4C72-B641-0BE9C7D8ABDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B010A8E-8EB4-4C72-B641-0BE9C7D8ABDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
