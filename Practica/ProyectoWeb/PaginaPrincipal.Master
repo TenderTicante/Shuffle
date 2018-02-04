@@ -5,8 +5,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-    <asp:ContentPlaceHolder ID="head" runat="server">
+    <title>
+
+    </title>
+
+    <script src="/JavaScript/jquery-3.3.1.min.js"></script>
+    
+    <script src="/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+    <link href="bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet" />
+   
+     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
