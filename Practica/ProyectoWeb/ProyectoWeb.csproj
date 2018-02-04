@@ -98,6 +98,16 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-grid.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-grid.min.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-reboot.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-reboot.min.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap.min.css.map" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.bundle.js.map" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.bundle.min.js.map" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.js.map" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -106,6 +116,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-grid.css" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-grid.min.css" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-reboot.css" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap-reboot.min.css" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap.css" />
+    <Content Include="bootstrap-4.0.0-dist\css\bootstrap.min.css" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.bundle.js" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.bundle.min.js" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.js" />
+    <Content Include="bootstrap-4.0.0-dist\js\bootstrap.min.js" />
+    <Content Include="JavaScript\jquery-3.3.1.min.js" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Web.config" />
@@ -113,6 +134,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
