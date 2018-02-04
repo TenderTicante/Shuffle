@@ -8,6 +8,7 @@ namespace ToolC
     {
         public void Configuration(IAppBuilder app)
         {
+            //Comentario de prueba
             ConfigureAuth(app);
         }
     }
